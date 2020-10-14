@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/delegueproject/static/css/main.56d65c50.chunk.css",
+    "main.js": "/delegueproject/static/js/main.6a9e6696.chunk.js",
+    "main.js.map": "/delegueproject/static/js/main.6a9e6696.chunk.js.map",
+    "runtime-main.js": "/delegueproject/static/js/runtime-main.546f12ae.js",
+    "runtime-main.js.map": "/delegueproject/static/js/runtime-main.546f12ae.js.map",
+    "static/css/2.69121389.chunk.css": "/delegueproject/static/css/2.69121389.chunk.css",
+    "static/js/2.db1c09c7.chunk.js": "/delegueproject/static/js/2.db1c09c7.chunk.js",
+    "static/js/2.db1c09c7.chunk.js.map": "/delegueproject/static/js/2.db1c09c7.chunk.js.map",
+    "index.html": "/delegueproject/index.html",
+    "precache-manifest.449a3b69477129e146fe8ddd0f6317d3.js": "/delegueproject/precache-manifest.449a3b69477129e146fe8ddd0f6317d3.js",
+    "service-worker.js": "/delegueproject/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/delegueproject/static/css/2.69121389.chunk.css.map",
+    "static/css/main.56d65c50.chunk.css.map": "/delegueproject/static/css/main.56d65c50.chunk.css.map",
+    "static/js/2.db1c09c7.chunk.js.LICENSE.txt": "/delegueproject/static/js/2.db1c09c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.546f12ae.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.db1c09c7.chunk.js",
+    "static/css/main.56d65c50.chunk.css",
+    "static/js/main.6a9e6696.chunk.js"
+  ]
+}
