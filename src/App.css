@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  cursor: pointer;
+}
+.inputForm {
+  margin-top: 10px;
+  height: 40px;
+}
+.tableau {
+  border: solid 1px;
+  margin: 0;
+  padding: 10px;
+  height: 100px;
+  width: 250px;
+  overflow: auto;
+  text-align: center;
+}
+.form {
+  display: flex;
+  justify-content: center;
+}
+.displayForm {
+  display: none;
+}
